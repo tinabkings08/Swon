@@ -1,0 +1,61 @@
+.conteiner {
+    max-width: 810px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 15px;
+}
+.header {
+	padding:300px;
+}
+
+body {
+    font-size: 15px;
+    color: #000;
+    line-height: 1.6;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h2 {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu li {
+    font-size: 12px;
+    line-height: 1.6;
+    margin: 40px;
+}
+
+.menu li a {
+    color: #000;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header-wraper {
+    display: flex;
+    vertical-align: center;
+    position: relative;
+}
+
+.title {
+    font-size: 38px;
+    line-height: 3;
+
+    color: #000;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+.main {
+	padding:300px;
+	margin-top:0 auto;
+}
